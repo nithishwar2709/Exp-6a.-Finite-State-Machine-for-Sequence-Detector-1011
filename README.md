@@ -1,4 +1,4 @@
-# Exp-6a.-Finite-State-Machine-for-Sequence-Detector-1011
+# Exp-6a.-Design and Simulation of Sequence Detector Using Moore Machine in Verilog HDL
 # Aim 
 To design and simulate a Finite-State-Machine-for-Sequence-Detector-1011 using Verilog HDL, and verify its functionality through a testbench in the Vivado 2023.1 environment. 
 
